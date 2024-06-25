@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m Sagar.
+- 👋 Hello, I’m Sagar Achar.
 - 🔥 I’m interested in Learning Programming Languages.
 - 💡I’m currently learning JavaScript & Node Js.
 
